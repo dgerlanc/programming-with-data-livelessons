@@ -1,0 +1,9 @@
+name: pwdlive
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.*
+  - pandas=1.0.*
+  - jupyterlab
+  - pyarrow
+  - pandas_market_calendars
